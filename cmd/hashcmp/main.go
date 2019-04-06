@@ -12,8 +12,8 @@ import (
 	"golang.org/x/crypto/openpgp/armor"
 	"gopkg.in/errgo.v1"
 
-	log "gopkg.in/hockeypuck/logrus.v0"
-	"gopkg.in/hockeypuck/openpgp.v1"
+	log "gopkg.in/schmorrison/logrus.v0"
+	"gopkg.in/schmorrison/openpgp.v1"
 )
 
 func main() {

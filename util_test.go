@@ -20,7 +20,7 @@ package openpgp
 import (
 	"fmt"
 
-	"github.com/hockeypuck/testing"
+	"github.com/schmorrison/testing"
 )
 
 func MustInputAscKeys(name string) []*PrimaryKey {

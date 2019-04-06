@@ -28,7 +28,7 @@ import (
 	"golang.org/x/crypto/openpgp/packet"
 	gc "gopkg.in/check.v1"
 
-	"github.com/hockeypuck/testing"
+	"github.com/schmorrison/testing"
 )
 
 type ResolveSuite struct{}

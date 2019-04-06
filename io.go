@@ -32,7 +32,7 @@ import (
 	"golang.org/x/crypto/openpgp/packet"
 	"gopkg.in/errgo.v1"
 
-	log "gopkg.in/hockeypuck/logrus.v0"
+	log "gopkg.in/schmorrison/logrus.v0"
 )
 
 var ErrMissingSignature = fmt.Errorf("Key material missing an expected signature")

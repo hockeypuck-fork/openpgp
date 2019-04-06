@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/hockeypuck/openpgp.svg?branch=master)](https://travis-ci.org/hockeypuck/openpgp)
-[![GoDoc](https://godoc.org/gopkg.in/hockeypuck/openpgp.v0?status.svg)](https://godoc.org/gopkg.in/hockeypuck/openpgp.v0)
+[![GoDoc](https://godoc.org/gopkg.in/schmorrison/openpgp.v0?status.svg)](https://godoc.org/gopkg.in/schmorrison/openpgp.v0)
 
 # openpgp
 
@@ -35,7 +35,7 @@ probably should not be) addressed in a typical OpenPGP implementation oriented t
 This package is newly API versioned by gopkg.in. Expect a v1 branch once it stabilizes.
 
 ```go
-import "github.com/hockeypuck/openpgp.v0"
+import "github.com/schmorrison/openpgp.v0"
 ```
 
 ## License
